@@ -1,6 +1,7 @@
 # Seja bem-vindo!
 Compartilhe os códigos disponibilizados e ajude-me a melhorá-los!!!
 Caso se interesse, envie um e-mail para agendarmos uma entrevista.
+
 Informações:
 - 🖥️ Trabalhando na ALGAR TECH, como Analista de Suporte em 2º Nível
 - 💻 Finalizando o curso de Tecnologia em Sistemas para Internet no IFB - Campus Brasília / DF
