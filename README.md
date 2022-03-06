@@ -19,6 +19,9 @@ Atualmente:
 </div>
  
  ##
+  ![Snake animation](https://github.com/andersontosca/andersontosca/blob/output/github-contribution-grid-snake.svg)
+ ##
+ 
  
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -37,9 +40,9 @@ Atualmente:
 <div> 
   <a href = "mailto:andersontosca@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" target="_blank"></a>
   <a href="https://br.linkedin.com/in/anderson-tosca-torres" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+</div>
  ##
 
- ![Snake animation](https://github.com/andersontosca/andersontosca/blob/output/github-contribution-grid-snake.svg)
+
 
 </div>
