@@ -9,12 +9,17 @@ Atualmente:
 - 💻 Finalizando o curso de Tecnologia em Sistemas para Internet no IFB - Campus Brasília / DF
 - 🎲 Realizando o TCC sobre Gamifição em Obras Literárias
 - 🌩️ Escutando a Banda 🌩️The Hellacopters🌩️
+
 ##
+
 <div align="center">
   <a href="https://github.com/andersontosca">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andersontosca&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersontosca&layout=compact&langs_count=7&theme=onedark"/>
 </div>
+ 
+ ##
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
