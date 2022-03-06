@@ -1,5 +1,7 @@
  Sejam bem-vindos!
-## Caso se interesse, envie um e-mail para agendarmos uma entrevista.
+# Coloco-me à disposição para uma entrevista, ocasião em que poderei detalhar melhor minhas experiências e competências.
+
+##
 
 Atualmente:
 - 🖥️ Trabalhando na ALGAR TECH, como Analista de Suporte em 2º Nível
