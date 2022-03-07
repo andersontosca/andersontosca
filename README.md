@@ -17,7 +17,7 @@ Atualmente:
 ##
 
 # PROJETOS
-<a ref="https://andersontosca.github.io/passeiosrecreativos/">Passeios Recreativos</a>
+https://andersontosca.github.io/passeiosrecreativos
 
 ##
 
