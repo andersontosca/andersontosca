@@ -13,7 +13,7 @@ Atualmente:
 - 🌩️ Escutando a Banda 🌩️The Hellacopters🌩️
 
 ##
-## - Projetos::
+- Projetos::
 - PASSEIOS RECREATIVOS:
 
 <div style="display: inline_block"><br>
