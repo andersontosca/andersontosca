@@ -10,7 +10,7 @@ Atualmente:
 
 <center>
 <div>   
-<a href = "mailto:andersontosca@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" target="_blank rel="noopener noreferrer""></a>
+<a href = "mailto:andersontosca@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" target="blank" rel="noopener noreferrer"></a>
 <a href="https://br.linkedin.com/in/anderson-tosca-torres" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 </center>
