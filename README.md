@@ -5,16 +5,16 @@
   <a href = "mailto:andersontosca@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" target="_blank rel="noopener noreferrer""></a>
   <a href="https://br.linkedin.com/in/anderson-tosca-torres" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
- 
-
 ##
-
 Atualmente:
 - 🖥️ Trabalhando na ALGAR TECH, como Analista de Suporte em 2º Nível
 - 💻 Finalizando o curso de Tecnologia em Sistemas para Internet no IFB - Campus Brasília / DF
 - 🎲 Realizando o TCC sobre Gamifição em Obras Literárias
 - 🌩️ Escutando a Banda 🌩️The Hellacopters🌩️
+
+##
+## - Projetos::
+- PASSEIOS RECREATIVOS:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
