@@ -1,9 +1,9 @@
 # Sejam bem-vindos!
  
-# Coloco-me à disposição para uma entrevista, ocasião em que poderei detalhar melhor minhas experiências e competências.
+Coloco-me à disposição para uma entrevista, ocasião em que poderei detalhar melhor minhas experiências e competências.
  
 
-# Atualmente:
+Atualmente:
 - 🖥️ Trabalhando na ALGAR TECH, como Analista de Suporte em 2º Nível
 - 💻 Finalizando o curso de Tecnologia em Sistemas para Internet no IFB - Campus Brasília / DF
 - 🎲 Realizando o TCC sobre Gamifição em Obras Literárias
