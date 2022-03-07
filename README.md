@@ -20,22 +20,15 @@ Atualmente:
 
 # PROJETOS: 
 
- <div> 
-  - X-Obra Liter® -  
- </div> <br>
-<div>
+- X-Obra Liter® -   
 - Passeios Recreativos® - https://andersontosca.github.io/passeiosrecreativos -
-</div> <br>
-<div>
 - Senac - Brasília / DF -
-</div> <br>
-<div>
 - Parque de Diversões -  
-<img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg"> 
-</div>
  
 ##
 <!--     <div style="display: inline_block"><br>
+<img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg"> 
+</div>
 
 <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">  
 <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
