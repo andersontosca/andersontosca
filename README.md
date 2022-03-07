@@ -12,8 +12,8 @@ Atualmente:
 - 🎲 Realizando o TCC sobre Gamifição em Obras Literárias
 - 🌩️ Escutando a Banda 🌩️The Hellacopters🌩️
 
-##
-# PROJETOS
+
+#PROJETOS
 - Passeios Recreativos
 
 <div style="display: inline_block"><br>
