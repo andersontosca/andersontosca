@@ -3,7 +3,7 @@
 <b>Coloco-me à disposição para uma entrevista, ocasião em que poderei detalhar melhor minhas experiências e competências.
  
 
-Atualmente: </b>
+Atualmente: 
 - 🖥️ Trabalhando na ALGAR TECH, como Analista de Suporte em 2º Nível
 - 💻 Finalizando o curso de Tecnologia em Sistemas para Internet no IFB - Campus Brasília / DF
 - 🎲 Realizando o TCC sobre Gamifição em Obras Literárias
@@ -58,4 +58,6 @@ Atualmente: </b>
  ##
   ![Snake animation](https://github.com/andersontosca/andersontosca/blob/output/github-contribution-grid-snake.svg)
  ##
+ 
+ </b>
  
