@@ -12,10 +12,8 @@ Atualmente:
 - 🎲 Realizando o TCC sobre Gamifição em Obras Literárias
 - 🌩️ Escutando a Banda 🌩️The Hellacopters🌩️
 
-<div> 
 # PROJETOS
-</div> 
- <a ref="https://andersontosca.github.io/passeiosrecreativos/">Passeios Recreativos</a>
+<a ref="https://andersontosca.github.io/passeiosrecreativos/">Passeios Recreativos</a>
 
 
 
