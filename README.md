@@ -18,8 +18,8 @@ Atualmente:
 ##
  
 ### Projetos:
-- X-Obra Liter® -   
-- Passeios Recreativos® - https://andersontosca.github.io/passeiosrecreativos -
+- X-Obra Liter® -https://github.com/andersontosca/X-ObraLiter
+- Passeios Recreativos® - https://andersontosca.github.io/passeiosrecreativos
 - Senac - Brasília / DF -
 - Parque de Diversões -  
  </br>
