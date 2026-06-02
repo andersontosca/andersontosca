@@ -3,7 +3,7 @@
 ### <b>Coloco-me à disposição para uma entrevista, ocasião em que poderei detalhar melhor minhas experiências e competências.
 
 Atualmente: 
-- 🖥️ Trabalhando na ALGAR TECH, como Analista de Suporte Pleno
+- 🖥️ Trabalhando na POSITIVO S+, como Analista de Suporte Pleno
 - 💻 Formado no curso de Tecnologia em Sistemas para Internet no IFB - Campus Brasília / DF
 - 🎲 Realizado o TCC sobre Gamifição em Obras Literárias
 - 🌩️ Escutando a Banda 🌩️The Hellacopters🌩️
